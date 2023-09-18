@@ -19,3 +19,4 @@ SQLAlchemy==2.0.15
 typing_extensions==4.6.3
 Werkzeug==2.2.3
 WTForms==3.0.1
+uwsgi==2.0.19.1
